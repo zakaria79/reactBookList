@@ -1,0 +1,7 @@
+Définition de Reducer:
+----------------------
+
+A redecer is a function that returns a piece of the application state
+
+=====================================================================
+
